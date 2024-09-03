@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142245501493",
+    "project_id": "rideranger-1bf77",
+    "storage_bucket": "rideranger-1bf77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142245501493:android:9c147bde7752c9c514af7c",
+        "android_client_info": {
+          "package_name": "com.rideranger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJNslu6WPZuQSy0NZTXKGjFxnUTUNUQiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
